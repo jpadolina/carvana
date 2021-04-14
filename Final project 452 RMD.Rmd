@@ -1,6 +1,6 @@
 ---
 title: 'BAX 452 Final Project: Carvana Analysis'
-author: "Weitian Xie"
+author: "Weitian Xie, Yuthika Agarwalla, Jessica Padolina"
 date: "3/15/2021"
 output: pdf_document
 ---
