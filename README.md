@@ -6,5 +6,7 @@ To scrape multiple pages of listings into one centralized SQL table. The table c
 
 ## Parameters
 Make: BMW
+
 Scrape date range: mid-March 2021
+
 ZIP code: 94103
